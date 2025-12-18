@@ -1,4 +1,4 @@
-# Hi there, I'm PUSKAr 👋
+# Hi there, I'm PUSKAR 👋
 
 ### AI & Web3 Security Researcher | GSoC '26 Aspirant
 I am a 2nd-year CS student passionate about building intelligent automation and securing the decentralized web. I use **Python** as my primary tool (my "mummy" — the $1^{st}$ number for every project) to bridge the gap between AI models and Blockchain.
