@@ -1,42 +1,69 @@
-# Hi there, I'm PUSKAR 👋
+## Hi, I’m Puskar 👋
 
-### AI & Web3 Security Researcher | GSoC '26 Aspirant
-I am a 2nd-year CS student passionate about building intelligent automation and securing the decentralized web. I use **Python** as my primary tool (my "mummy" — the $1^{st}$ number for every project) to bridge the gap between AI models and Blockchain.
+I’m a **2nd-year Computer Science student** focused on building **reliable, workflow-driven software systems** using Python, with a strong interest in **AI-powered automation** and how intelligent systems behave in real-world conditions.
 
----
-
-### 🛠 Tech Stack & Interests
-- **AI/ML:** Anomaly Detection, NLP, Predictive Modeling.
-- **Web3:** Solidity, Smart Contract Security, Web3.py.
-- **Tools:** Git, Linux, Docker, Automation Scripts.
-
-### 🚀 Roadmap to GSoC 2026
-- [ ] Master Git/GitHub Advanced Workflows.
-- [ ] Contribute to 3+ Security/AI Open Source Orgs.
-- [ ] Build a Blockchain Anomaly Detection Model.
-
-### 📈 Proof of Work
-- **Security:** Learning to audit Smart Contracts via Slither.
-- **Automation:** Developing AI agents for Web3 data analysis.
+Rather than jumping straight into high-level AI tools, I’m deliberately building strong foundations — writing clean code, designing small systems, and understanding how **decision-making, state, and iteration** actually work. My goal is to grow into someone who can build **robust AI workflows and agent-like systems**, not just demos.
 
 ---
 
-### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/puskar-mishra-9a729a395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [X/Twitter](https://x.com/PuskarMishra23) 
+## 🧠 What I’m Working On
 
-*“The best way to predict the future is to automate it.”*## Hi there 👋
+### 🔹 Python & System Foundations (core focus)
+- Writing modular, readable Python code
+- Structuring programs into reusable functions and components
+- Working with files, data, and simple stateful workflows
+- Building small systems that handle errors and edge cases
 
-<!--
-**puskar09/puskar09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 AI Workflows & Agentic Thinking
+- Designing programs that:
+  - observe inputs
+  - make decisions
+  - take actions
+  - evaluate outcomes
+  - iterate or adapt
+- Focusing on **logic and reliability first**, before adding models or frameworks
+- Exploring how AI fits into workflows rather than replacing them
 
-Here are some ideas to get you started:
+### 🔹 Applied AI & ML (progressive)
+- Planning to move into applied machine learning once core systems feel natural
+- Interested in using ML as a decision component inside larger workflows
+- Long-term interest in agentic systems that combine rules, data, and learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Security & Web3 (exploratory)
+- Exploring how automation and analysis can support safer decentralized systems
+- Learning how structured workflows and AI-assisted analysis can improve security tooling
+
+---
+
+## 🛠 Tools & Environment
+
+- **Language:** Python (primary)
+- **Workflow:** Git, Linux, CLI-based development
+- **Practices:** version control, automation scripts, reproducible builds
+- **Mindset:** build small → test → iterate → document
+
+---
+
+## 🚀 Roadmap (2025–2026)
+
+- Build and document multiple small, well-structured Python systems
+- Progress toward **AI-driven workflows and agent-like projects**
+- Contribute meaningfully to beginner-friendly open-source projects
+- Grow toward **GSoC 2026**, focusing on long-term impact over short-term visibility
+
+---
+
+## 📈 Proof of Work (in progress)
+
+- Python workflow experiments and system prototypes
+- Gradual public documentation of learning and design decisions
+- Projects that prioritize clarity, reliability, and reasoning over scale
+
+---
+
+## 📫 Let’s Connect
+
+- **X / Twitter:** <your link>
+- **LinkedIn:** <your link>
+
+If you’re building products around automation, AI workflows, or developer tools, I’d love to learn from your work and contribute where I can.
