@@ -1,69 +1,132 @@
-## Hi, I’m Puskar 👋
+# Hi, I'm Puskar 👋
 
-I’m a **2nd-year Computer Science student** focused on building **reliable, workflow-driven software systems** using Python, with a strong interest in **AI-powered automation** and how intelligent systems behave in real-world conditions.
+**AI/ML Engineering Student | Building Applied AI Systems**
 
-Rather than jumping straight into high-level AI tools, I’m deliberately building strong foundations — writing clean code, designing small systems, and understanding how **decision-making, state, and iteration** actually work. My goal is to grow into someone who can build **robust AI workflows and agent-like systems**, not just demos.
+I'm a B.Tech Artificial Intelligence & Machine Learning student at **M.S. Ramaiah University of Applied Sciences**, focused on building practical AI systems and understanding how they work beyond individual models.
 
----
+My current direction is moving from **Machine Learning → AI Engineering**, with an emphasis on understanding the foundations behind modern AI systems before relying on high-level frameworks.
 
-## 🧠 What I’m Working On
-
-### 🔹 Python & System Foundations (core focus)
-- Writing modular, readable Python code
-- Structuring programs into reusable functions and components
-- Working with files, data, and simple stateful workflows
-- Building small systems that handle errors and edge cases
-
-### 🔹 AI Workflows & Agentic Thinking
-- Designing programs that:
-  - observe inputs
-  - make decisions
-  - take actions
-  - evaluate outcomes
-  - iterate or adapt
-- Focusing on **logic and reliability first**, before adding models or frameworks
-- Exploring how AI fits into workflows rather than replacing them
-
-### 🔹 Applied AI & ML (progressive)
-- Planning to move into applied machine learning once core systems feel natural
-- Interested in using ML as a decision component inside larger workflows
-- Long-term interest in agentic systems that combine rules, data, and learning
-
-### 🔹 Security & Web3 (exploratory)
-- Exploring how automation and analysis can support safer decentralized systems
-- Learning how structured workflows and AI-assisted analysis can improve security tooling
+I enjoy building systems where **models, software, data, APIs, and workflows work together to solve real problems.**
 
 ---
 
-## 🛠 Tools & Environment
+## 🧠 What I'm Working On
 
-- **Language:** Python (primary)
-- **Workflow:** Git, Linux, CLI-based development
-- **Practices:** version control, automation scripts, reproducible builds
-- **Mindset:** build small → test → iterate → document
+### Applied Machine Learning
+
+- Building end-to-end ML applications beyond notebooks
+- Data preprocessing, model training and evaluation
+- Model serialization and inference
+- Integrating ML models into real applications
+
+### AI Engineering
+
+Currently learning and experimenting with:
+
+- LLM fundamentals
+- Embeddings and semantic representations
+- Vector search
+- Retrieval-Augmented Generation (RAG)
+- Tool calling and AI workflows
+- Agents and stateful AI systems
+- Knowledge representation
+- AI system evaluation
+
+My approach is:
+
+> **Understand the problem → understand the concept → experiment → build.**
+
+I don't want to use a framework simply because it exists. I want to understand what problem it solves and when it should actually be used.
 
 ---
 
-## 🚀 Roadmap (2025–2026)
+## 🚀 Featured Projects
 
-- Build and document multiple small, well-structured Python systems
-- Progress toward **AI-driven workflows and agent-like projects**
-- Contribute meaningfully to beginner-friendly open-source projects
-- Grow toward **GSoC 2026**, focusing on long-term impact over short-term visibility
+### CareerPilot AI
+
+An end-to-end machine learning application that takes an ML model from data preprocessing and training into a working web application.
+
+**Focus:** Machine Learning · Scikit-learn · FastAPI · React · TypeScript
+
+→ [View Repository](https://github.com/puskar09/CareerPilot-AI)
+
+### ARGUS
+
+A university hackathon project exploring multi-agent AI for software incident investigation, using specialized investigation workflows and evidence-based analysis.
+
+**Focus:** Multi-Agent AI · FastAPI · React · AI Workflows
+
+→ [View Repository](https://github.com/puskar09/ARGUS)
+
+### Research Intelligence Workspace
+
+**Currently building**
+
+A research-oriented AI system designed to help users investigate complex subjects through web research, documents, evidence, structured research maps, and persistent research projects.
+
+The project is also my primary learning environment for understanding modern AI engineering concepts such as **LLMs, embeddings, retrieval, RAG, research workflows, and AI evaluation**.
 
 ---
 
-## 📈 Proof of Work (in progress)
+## 🛠️ Technologies
 
-- Python workflow experiments and system prototypes
-- Gradual public documentation of learning and design decisions
-- Projects that prioritize clarity, reliability, and reasoning over scale
+**Languages**
+
+Python · JavaScript · TypeScript · SQL · HTML · CSS
+
+**AI / ML**
+
+Scikit-learn · Pandas · NumPy · Machine Learning · LLM Systems · RAG · Embeddings
+
+**Backend**
+
+FastAPI · REST APIs
+
+**Frontend**
+
+React · TypeScript · Vite
+
+**Development**
+
+Git · GitHub · Linux · CLI · Jupyter
 
 ---
 
-## 📫 Let’s Connect
+## 📚 How I Learn
 
-- **X / Twitter:** <your link>
-- **LinkedIn:** <your link>
+I try to avoid treating AI frameworks as black boxes.
 
-If you’re building products around automation, AI workflows, or developer tools, I’d love to learn from your work and contribute where I can.
+My learning process is:
+
+**Problem → Concept → Small Experiment → System → Evaluation**
+
+The goal is to eventually be able to look at a real problem and decide whether it actually requires:
+
+**ML · LLMs · RAG · Tools · Agents · Workflows · Knowledge Graphs — or none of them.**
+
+---
+
+## 🎯 Current Goal
+
+I'm working toward becoming an **AI Engineer capable of designing and building AI systems independently**, rather than only training individual models or integrating APIs.
+
+I'm particularly interested in:
+
+- Applied AI
+- AI Engineering
+- Intelligent research systems
+- AI workflows
+- Retrieval and knowledge systems
+- Open-source development
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** [Puskar Mishra](https://www.linkedin.com/in/puskar-mishra-9a729a395/)
+- **X:** [@PuskarMishra23](https://x.com/PuskarMishra23)
+- **GitHub:** [@puskar09](https://github.com/puskar09)
+
+---
+
+> **Build systems. Understand why they work. Keep learning.**
