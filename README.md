@@ -96,6 +96,22 @@ This is also my main learning environment for modern AI engineering concepts suc
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=puskar09&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskar09&layout=compact&hide_border=true&theme=transparent" height="170" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=puskar09&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
 ## 📚 Learning Philosophy
 
 I learn by turning concepts into systems:
@@ -110,11 +126,19 @@ The goal is to eventually look at a real problem and decide whether it actually 
 
 ## 🔭 Currently Building
 
-> **Research Intelligence Workspace**
->
-> Building a research environment where users can investigate a topic, combine web research with their own evidence, explore research branches, inspect sources, and preserve useful research inside persistent projects.
+<div align="center">
 
-**Status:** 🟡 Ideation → Learning → Core Build
+### Research Intelligence Workspace
+
+**Web Research · Evidence · Retrieval · AI Systems**
+
+`Research` → `Understand` → `Explore` → `Verify` → `Preserve`
+
+**Status:** 🟡 Learning → Core Build
+
+</div>
+
+The goal is to create a research environment where users can investigate complex topics, combine web research with their own evidence, explore research branches, inspect sources, and preserve useful research inside persistent projects.
 
 ---
 
@@ -122,7 +146,7 @@ The goal is to eventually look at a real problem and decide whether it actually 
 
 I'm working toward becoming an **AI Engineer capable of designing and building AI systems independently** — not only training models or integrating APIs.
 
-Interested in:
+I'm particularly interested in:
 
 - Applied AI & Machine Learning
 - AI Engineering
@@ -135,8 +159,12 @@ Interested in:
 
 ## 📫 Connect
 
+<div align="center">
+
 [LinkedIn](https://www.linkedin.com/in/puskar-mishra-9a729a395/) · [X](https://x.com/PuskarMishra23) · [GitHub](https://github.com/puskar09)
 
-<br>
+<br><br>
 
 > **Build systems. Understand why they work. Keep learning.**
+
+</div>
