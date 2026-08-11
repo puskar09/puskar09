@@ -126,21 +126,15 @@ The project is also my main learning environment for understanding **AI engineer
 
 ---
 
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=puskar09&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskar09&layout=compact&hide_border=true&theme=transparent" height="165" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com/?user=puskar09&theme=transparent&hide_border=true" />
 
 </div>
-
----
 
 ## 🧭 My Engineering Approach
 
